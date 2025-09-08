@@ -1,0 +1,10 @@
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: ecomm-sql-1
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "SQLshiv@1234Password"
+    platform: "linux/amd64"
+    ports:
+      - "1433:1433"

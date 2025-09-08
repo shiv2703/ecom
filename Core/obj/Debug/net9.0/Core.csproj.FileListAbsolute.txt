@@ -1,0 +1,11 @@
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/bin/Debug/net9.0/Core.deps.json
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/bin/Debug/net9.0/Core.dll
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/bin/Debug/net9.0/Core.pdb
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.dll
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/Core.pdb
+/Users/shivamverma/Documents/proj/dotnet/ecomm/Core/obj/Debug/net9.0/ref/Core.dll
